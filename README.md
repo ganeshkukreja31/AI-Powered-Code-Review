@@ -1,7 +1,5 @@
 # AI-Powered-Code-Review
 
-# Source-Code-Analysis-using-GenAI
-
 # How to run?
 ### STEPS:
 
